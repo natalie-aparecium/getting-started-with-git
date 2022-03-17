@@ -1,1 +1,1 @@
-this is getting started with Git and GitHub
+this is getting started with Git and GitHub.
